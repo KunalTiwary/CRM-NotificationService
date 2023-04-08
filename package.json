@@ -16,5 +16,13 @@
     "mongoose": "^7.0.3",
     "node-cron": "^3.0.2",
     "nodemailer": "^6.9.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KunalTiwary/CRM-NotificationService.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KunalTiwary/CRM-NotificationService/issues"
+  },
+  "homepage": "https://github.com/KunalTiwary/CRM-NotificationService#readme"
 }

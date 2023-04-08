@@ -27,3 +27,5 @@ require("./routes/ticketNotification.route")(app);
 app.listen(serverConfig.PORT, () => {
     console.log(`Application started on port num: ${serverConfig.PORT}`)
 })
+
+// server - routes - controller - model - cronjob - email service
